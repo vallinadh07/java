@@ -1,0 +1,20 @@
+          *****************************************  BASIC OF C ***************************************
+DATA TYPES 
+OPERATORS 
+CONTROL FLOW (SIMPLE IF ,IF ELSE , ELSE IF LADDER ,NESTED IF ,SWITCH CASE)(BREAK AND CONTINUE)
+LOPPING (FOR ,WHILE,DO WHILE)
+ARRAYS (ONE ,TWO ,MULTI)
+FUNCTIONS 
+RECURSION 
+POINTERS 
+STRUCTURE  and UNION 
+
+             ********************************* DATA STRUCTURES *******************************************
+STACK 
+LINKED LIST 
+STACK 
+QUEAUE 
+TREES 
+GRAPHS 
+DYNAMIC MEMORY ALLOCATION 
+SEARCHING ,SORTING  
